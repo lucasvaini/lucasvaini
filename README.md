@@ -15,9 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🙏 sesi, senai   
-🌎 São Paulo   
-⚡ tenho 16 anos
+📚 Atualmente curso o 2° ano do Ensino Médio no SESI Ipiranga;
+
+🏡 Moro Em São Paulo, capital;
+
+💻 Curso Desenvolvimento de Sistemas no Senai;
+
+❤ Tenho 16 anos;
+
+🎶 Amo música.
 
 ## Ferramentas e tcnologia
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
